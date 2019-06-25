@@ -1,9 +1,9 @@
-- layout: top
-  name: Columbia University, Data Science Institute
-  dates: 2018 - Present
-  qualification: Master of Science - Data Science
-
-- layout: top
-  name: B. V. B. College of Engineering and Technlogy
-  dates: 2012 - 2016
-  qualification: Bachelor of Engineering - Information Sciences
+# Education Template
+- layout: left
+  name: Institution name
+  dates: Date Range (eg. 2016 - 2019)
+  qualification: Qualifications (eg. BA Performing Arts)
+  quote: >
+    Short institution or course description (optional)
+  description: | # this will include new lines to allow paragraphs
+    Description of qualification
