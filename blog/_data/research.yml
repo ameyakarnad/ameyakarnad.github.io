@@ -1,0 +1,11 @@
+- layout: top-middle
+  name: How America Flies
+  github: ameyakarnad/howamericaflies
+  quote: >
+    Creating Insightful Visualizations on Airline Performance Data
+  description: | # this will include new lines to allow paragraphs
+    - Performed Exploratory data analysis (EDA) and answered questions of interest on Airline On-Time Performance data for US
+    - Conducted the EDA using R’s tidyverse packages.
+    - Designed a Visualization tool in JavaScript and D3 to find flight delays between top airports.
+    - [Tool Link](https://s3.us-east-2.amazonaws.com/howamericaflies/lookbeforeyoubook.html)
+
