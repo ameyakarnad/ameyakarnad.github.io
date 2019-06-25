@@ -1,0 +1,67 @@
+# Site
+repository: Git repository where your resume will be hosted, only required if you are hosting on GitHub (eg. sproogen/modern-resume-theme)
+# favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
+
+# Personal info
+name: Ameya Karnad
+email: ameya.karnad@columbia.edu
+phone: +1(646)4920972
+website: http://ameyakarnad.github.io
+# blog : http://google.com
+# Social links
+twitter_username: serious_joker3
+github_username:  ameyakarnad
+linkedin_username: ameya-karnad
+youtube_username: channel/UCL3yG9_j44it7tdOvRueeUg/playlists
+download_resume: columbia.jpg
+
+baseurl: "http://ameyakarnad.github.io"
+# About Section
+about_title: About Me
+about_profile_image: ameya.PNG
+about_content: | # this will include new lines to allow paragraphs
+  Hi, my name is Ameya Karnad, and I am a second year graduate student persuing my Master's in Data Science at Columbia University's Data Science Institute.
+
+  I am interested in the Applications of Data Science in the fields of technology, social sciences, public policy, political science and education
+
+experience_title: Experience #(Use this to override about experience section title)
+education_title: Education #(Use this to override about education section title)
+projects_title: Projects
+#research_title : Research Publications
+
+
+#more_title: A Lit
+#more_content: | # this will include new lines to allow paragraphs
+#  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+# Footer
+
+
+
+
+
+footer_show_references: true
+
+# Build settings
+theme: modern-resume-theme
+# remote_theme: sproogen/modern-resume-theme (Use this if you are hosting your resume on GitHub)
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+ - jekyll-seo-tag
+
+exclude : [
+  "Gemfile",
+  "Gemfile.lock",
+  "node_modules",
+  "vendor/bundle/",
+  "vendor/cache/",
+  "vendor/gems/",
+  "vendor/ruby/",
+  "lib/",
+  "scripts/",
+  "docker-compose.yml",
+  ]
