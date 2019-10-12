@@ -1,7 +1,7 @@
 - layout: top-middle
   name: Editorial Classifier
   quote: >
-    A Bloomberg Sponser Capstone Project to classify news articles
+    A Bloomberg Sponsored Capstone Project to classify news articles
   description: | # this will include new lines to allow paragraphs
     - Building classifiers to identify Editorial content in news and uncovering trends over time across news sources for Bloomberg.    - Used Regression, SVM, Decision Trees and Time Series based models to predict Conflict. Link
     - Anticipated developments include working with Bert Algorithm, Pytorch, Deep learning and Topics over time
@@ -10,7 +10,7 @@
 - layout: top-middle
   name: Educational Recommendation System
   quote: >
-    A Recommendation system to recommend digital resources to students
+    Recommendation system to recommend digital resources to students
   description: | # this will include new lines to allow paragraphs
     - Developed a multi-platform database pipeline for physical and digital user behavior, and research content using AWS.
     - Built and evaluated a hybrid recommendation system on multiple digital learning platforms
