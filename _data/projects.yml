@@ -1,4 +1,4 @@
-- layout: top-middle
+- layout: left
   name: Does Climate Change and Natural Resource Storage Cause Conflict?
   github: ameyakarnad/SenegalConflict
   quote: >
@@ -9,7 +9,7 @@
     - Built a reporting Dashboard that can be used by policymakers to take effective decisions to avoid natural resources shortages and conflicts.
 
 
-- layout: top-middle
+- layout: left
   name: How America Flies
   github: ameyakarnad/howamericaflies
   quote: >
@@ -22,7 +22,7 @@
 
 
 
-- layout: top-middle
+- layout: left
   name: Beer Recommendation System
   github: ameyakarnad/BeerPersonalization
   quote: >
@@ -35,7 +35,7 @@
 
 
 
-- layout: top-middle
+- layout: left
   name: Projects in Data Science and Public Policy
   quote: >
     Mini Data analysis and Data Science courses in Public Policy
@@ -44,7 +44,7 @@
     - Evaluating Northpointe Inc's Compass system recidivism predictor [Link](https://github.com/ameyakarnad/RecidivisimCompass)
     - Predicting Economic factors related to Poverty using Night Lights dataset [Link](https://github.com/ameyakarnad/PovertyNightLights)
 
-- layout: top-middle
+- layout: left
   name: Research Project in Educational Analytics
   quote: >
     Evaluation and Validation of Problem Solving and Thinking Skills based on Student Academic Performance
