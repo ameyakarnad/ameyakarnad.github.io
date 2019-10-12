@@ -1,4 +1,22 @@
 - layout: top-middle
+  name: Editorial Classifier
+  quote: >
+    A Bloomberg Sponser Capstone Project to classify news articles
+  description: | # this will include new lines to allow paragraphs
+    - Building classifiers to identify Editorial content in news and uncovering trends over time across news sources for Bloomberg.    - Used Regression, SVM, Decision Trees and Time Series based models to predict Conflict. Link
+    - Anticipated developments include working with Bert Algorithm, Pytorch, Deep learning and Topics over time
+    - Languages: Python(Pytorch), R
+
+- layout: top-middle
+  name: Educational Recommendation System
+  quote: >
+    A Recommendation system to recommend digital resources to students
+  description: | # this will include new lines to allow paragraphs
+    - Developed a multi-platform database pipeline for physical and digital user behavior, and research content using AWS.
+    - Built and evaluated a hybrid recommendation system on multiple digital learning platforms
+    - Technologies: Python (nltk, predictionIO), SQL, MongoDB
+
+- layout: top-middle
   name: Does Climate Change and Natural Resource Storage Cause Conflict?
   github: ameyakarnad/SenegalConflict
   quote: >
@@ -19,9 +37,7 @@
     - Conducted the EDA using R’s tidyverse packages.
     - Designed a Visualization tool in JavaScript and D3 to find flight delays between top airports.
     - [Tool Link](https://s3.us-east-2.amazonaws.com/howamericaflies/lookbeforeyoubook.html)
-
-
-
+    
 - layout: top-middle
   name: Beer Recommendation System
   github: ameyakarnad/BeerPersonalization
@@ -32,9 +48,7 @@
     - Developed a Content based recommendation system using NLP on beer review-text
     - Tackled recommendation concerns such as cold- start, variety, serendipity and accuracy
     - Developed the project in python using surprise, NL toolkit and scikit-learn packages
-
-
-
+    
 - layout: top-middle
   name: Projects in Data Science and Public Policy
   quote: >
