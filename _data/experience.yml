@@ -7,9 +7,9 @@
   description: | # this will include new lines to allow paragraphs
     - Worked on a Multi-platform recommendation system for various Teacher’s college library resources for enhancing Self Directed Learning (SDL)
     - Own entire data pipeline and perform end to end data engineering
-    - Technologies: Apache PredictionIO, MongoDB, EZProxy, Docker
-    - Development and research on Search and Recommendation systems, Social network analysis and Topic modelling
+    - Involves Development and research on Search and Recommendation systems, Social network analysis and Topic modelling
     - Currently working on auto-tagging of documents and designing a package for research metadata retrieval
+    - Technologies: Apache PredictionIO, MongoDB, EZProxy, Docker, Python, SQL
 - layout: left
   company: Columbia University
   link: https://datascience.columbia.edu/students-recognized-excellence-during-reception-dsi-graduates
