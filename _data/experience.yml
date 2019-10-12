@@ -32,6 +32,7 @@
     - Designed, tested and automated APIs for providing data analytics insights into software security compliance and risk data for a datacenter automation Software
     - Implemented the software using python programing on kubernetes technology
     - Won 2nd place in a site wide hackathon conducted by Hewlett Packard Enterprise by designing a ‘Docker and Kubernetes log monitoring Solution’
+    - Technologies: Kubernetes, Docker, Python
 - layout: left
   company: Hewlett Packard Enterprise
   link: https://www.hpe.com
