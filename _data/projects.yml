@@ -1,11 +1,13 @@
 - layout: top-middle
   name: Editorial Classifier
+  github: ujjwal95/bloomberg_editorial_classifier
   quote: >
     A Bloomberg Sponsored Capstone Project to classify news articles
   description: | # this will include new lines to allow paragraphs
-    - Building classifiers to identify Editorial content in news and uncovering trends over time across news sources for Bloomberg.    - Used Regression, SVM, Decision Trees and Time Series based models to predict Conflict. Link
-    - Anticipated developments include working with Bert Algorithm, Pytorch, Deep learning and Topics over time
-    - Languages: Python(Pytorch), R
+    - Worked with unstructured news sources to build classifiers to identify editorial content for Bloomberg Terminal.
+    - Developed traditional classification algorithms with text based features like n-grams, Parts of speech, Named entities etc.
+    - Trained Natural Language Processing based Bidirectional LSTM, BERT, and XLNET Models for classification using Python.
+    - Languages: Python(Pytorch, TensorFlow, spacy), R(ggplot)
 
 - layout: top-middle
   name: Educational Recommendation System
