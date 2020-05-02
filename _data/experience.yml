@@ -1,4 +1,13 @@
 - layout: left
+  company: Oracle
+  link: https://www.oracle.com/index.html
+  jobs:
+    - title: Senior Software Engineer
+      dates: March 2020 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Working on the Oracle Transporatation Management (OTM) Software. 
+    - Building Machine learning, and Operational Research Algorithms and designing Dashboard for the Product.
+- layout: left
   company: Edlab, Teachers College, Columbia University
   link: https://edlab.tc.columbia.edu/
   jobs:
