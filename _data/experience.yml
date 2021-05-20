@@ -8,6 +8,15 @@
     - Working on the Oracle Transporatation Management (OTM) Software. 
     - Building Machine learning, and Operational Research Algorithms and designing Dashboard for the Product.
 - layout: left
+  company: Columbia University
+  link: https://www.columbia.edu/
+  jobs:
+    - title: Adjunct Associate Faculty
+      dates: May 2020 - Jan 2021
+  description: | # this will include new lines to allow paragraphs
+    - Hired for the Course "Data Science Consulting" for two semesters. 
+    - Directed and helped Students develop Data Science capstone Projects in a Consulting-based enviroment. 
+- layout: left
   company: Edlab, Teachers College, Columbia University
   link: https://edlab.tc.columbia.edu/
   jobs:
