@@ -5,8 +5,9 @@
     - title: Senior Software Engineer
       dates: March 2020 - Present
   description: | # this will include new lines to allow paragraphs
-    - Working on the Oracle Transporatation Management (OTM) Software. 
-    - Building Machine learning, and Operational Research Algorithms and designing Dashboard for the Product.
+    - Working for the Oracle Transportation Management (OTM) Team @Oracle.
+    - Worked on the cross-functional teams across the product
+    - Currently Building Dashboards and Visualization components, as well as developing machine learning algorithms for the product
 - layout: left
   company: Columbia University
   link: https://www.columbia.edu/
@@ -15,7 +16,7 @@
       dates: May 2020 - Jan 2021
   description: | # this will include new lines to allow paragraphs
     - Hired for the Course "Data Science Consulting" for two semesters. 
-    - Directed and helped Students develop Data Science capstone Projects in a Consulting-based enviroment. 
+    - Directed and helped Students develop Data Science capstone Projects in a Consulting-based environment. 
 - layout: left
   company: Edlab, Teachers College, Columbia University
   link: https://edlab.tc.columbia.edu/
