@@ -19,9 +19,9 @@ download_resume: columbia.jpg
 about_title: About Me
 about_profile_image: ameya.PNG
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Ameya Karnad, and I am Software Engineer working at Oracle in Conshohocken, Pennsylvania. I graduated from Columbia University with a Master's Degree in Data Science in December 2019.
+  Hi, my name is Ameya Karnad, and I am Software Engineer working at Google in Mountain View, California. I graduated from Columbia University with a Master's Degree in Data Science in December 2019.
 
-  I am interested in the Applications of Data Science in the fields of technology, social sciences, public policy, political science and education. Recently, I have also worked Part-time as an Adjunct Associate Faculty at Columbia University
+  I am interested in the Applications of Data Science in the fields of computer science, technology, social sciences, public policy, political science and education. Recently, I have also worked Part-time as an Adjunct Associate Faculty at Columbia University
 
 experience_title: Experience #(Use this to override about experience section title)
 education_title: Education #(Use this to override about education section title)
