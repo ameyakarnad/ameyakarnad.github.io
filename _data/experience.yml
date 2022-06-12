@@ -10,17 +10,17 @@
     - Developing a robust framework for using first-party data as the advertising industry is moving towards a cookieless world.
 - layout: left
   company: Oracle
-  link: https://www.oracle.com/index.html
+  link: https://www.oracle.com
   jobs:
     - title: Senior Software Engineer
       dates: March 2020 - May 2022
   description: | # this will include new lines to allow paragraphs
-    - Working for the Oracle Transportation Management (OTM) Team @Oracle.
+    - Working for the Oracle Transportation Management (OTM) Team at Oracle.
     - Worked on the cross-functional teams across the product
     - Currently Building Dashboards and Visualization components, as well as developing machine learning algorithms for the product
 - layout: left
   company: Columbia University
-  link: https://www.columbia.edu/
+  link: https://www.columbia.edu
   jobs:
     - title: Adjunct Associate Faculty
       dates: May 2020 - Jan 2021
@@ -29,7 +29,7 @@
     - Directed and helped Students develop Data Science capstone Projects in a Consulting-based environment. 
 - layout: left
   company: Edlab, Teachers College, Columbia University
-  link: https://edlab.tc.columbia.edu/
+  link: https://edlab.tc.columbia.edu
   jobs:
     - title: Data Science Researcher
       dates: June 2019 - Dec 2019
