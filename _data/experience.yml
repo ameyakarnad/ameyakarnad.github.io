@@ -1,9 +1,19 @@
 - layout: left
+  company: Google
+  link: https://www.google.com
+  jobs:
+    - title: Software Engineer
+      dates: May 2022 - Present
+  description: | # this will include new lines to allow paragraphs
+    - Working for the Google Ads product in the Audience Management team 
+    - Building a platform to help advertisers reach the right users across various advertising products 
+    - Developing a robust framework for using first-party data as the advertising industry is moving towards a cookieless world.
+- layout: left
   company: Oracle
   link: https://www.oracle.com/index.html
   jobs:
     - title: Senior Software Engineer
-      dates: March 2020 - Present
+      dates: March 2020 - May 2022
   description: | # this will include new lines to allow paragraphs
     - Working for the Oracle Transportation Management (OTM) Team @Oracle.
     - Worked on the cross-functional teams across the product
